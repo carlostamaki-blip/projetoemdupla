@@ -1,4 +1,4 @@
-O projeto é "Como controlar objetos perdidos e encontrados?"
+O tema do projeto é "Como controlar objetos perdidos e encontrados?"
 
 Integrantes:
 Carlos Augusto Tanaka Tamaki , Douglas Vinicius Costa
