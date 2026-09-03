@@ -17,4 +17,4 @@ O site vai conter esse design inicial, <img width="1566" height="744" alt="image
 
 Nova atualização.
 
-Anteriormente na parte de Wireframe teve uma atualização onde criamos a parte de Contatos e Configuração. Esse é o atual situação do nosso Wireframe, <img width="1733" height="558" alt="image" src="https://github.com/user-attachments/assets/b4a42826-7e92-4997-884d-d09f728b0f0d" />.
+Anteriormente na parte de Wireframe teve uma atualização onde criamos a parte de Contatos e Configuração. Esse é a atual situação do nosso Wireframe, <img width="1733" height="558" alt="image" src="https://github.com/user-attachments/assets/b4a42826-7e92-4997-884d-d09f728b0f0d" />.
