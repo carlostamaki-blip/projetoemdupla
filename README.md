@@ -13,10 +13,10 @@ o Wireframe/Design está no site figma, por recomendação do professor.
 
 A persona(O personagem que vai usar o aplicativo) será o Roberto Guimarães(nome fictício), ele terá 34 anos, cabelo castanho, meio cacheado, ele trabalha como eletricista numa companhia elétrica, ele tem uma esposa(33 anos) e uma filha(6 anos), e vive em uma casa deixada de herança pela sua avó. Ele gosta de jogar videogame e futebol com os amigos do trabalho nas suas folgas. Ele sempre acorda cedo para fazer o café da manha para a sua esposa e filha.
 
-O site vai conter esse wireframe inicial, <img width="1566" height="744" alt="image" src="https://github.com/user-attachments/assets/a71756b5-9339-46dd-95a5-df91b884fd60" />.
+O site vai conter esse wireframe inicial. <img width="1566" height="744" alt="image" src="https://github.com/user-attachments/assets/a71756b5-9339-46dd-95a5-df91b884fd60" />
 
 Nova atualização.
 
-Anteriormente na parte de Wireframe teve uma atualização onde criamos a parte de Contatos e Configuração. Esse é a atual situação do nosso Wireframe, <img width="1733" height="558" alt="image" src="https://github.com/user-attachments/assets/b4a42826-7e92-4997-884d-d09f728b0f0d" />.
+Anteriormente na parte de Wireframe teve uma atualização onde criamos a parte de Contatos e Configuração. Esse é a atual situação do nosso Wireframe. <img width="1733" height="558" alt="image" src="https://github.com/user-attachments/assets/b4a42826-7e92-4997-884d-d09f728b0f0d" />
 
 O design do site será este por enquanto, e o design do celular está finalizado. <img width="1723" height="690" alt="image" src="https://github.com/user-attachments/assets/aada1363-444f-4c22-a8a6-37083e14cffc" />
