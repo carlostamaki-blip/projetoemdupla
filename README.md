@@ -21,4 +21,5 @@ Anteriormente na parte de Wireframe teve uma atualização onde criamos a parte 
 
 O design do site será este. <img width="1206" height="499" alt="image" src="https://github.com/user-attachments/assets/760146d6-7378-4219-ab37-cb4f630c9c5e" />
 
-
+Começamos o desenvolvimento do site, tela de cadastro <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/ba0cab3c-1538-4f00-8471-fecb575e997f" />
+e a tela "do conteúdo do site" <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/48404dd7-99cb-4e24-af61-623954ab4eb8" />
