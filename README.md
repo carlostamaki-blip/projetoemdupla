@@ -19,4 +19,5 @@ Nova atualização.
 
 Anteriormente na parte de Wireframe teve uma atualização onde criamos a parte de Contatos e Configuração. Esse é a atual situação do nosso Wireframe. <img width="1733" height="558" alt="image" src="https://github.com/user-attachments/assets/b4a42826-7e92-4997-884d-d09f728b0f0d" />
 
-O design do site será este. <img width="986" height="813" alt="image" src="https://github.com/user-attachments/assets/c84ed1cb-90da-430b-8d80-b5d02785a893" />
+O design do site será este. <img width="873" height="723" alt="image" src="https://github.com/user-attachments/assets/91c04325-f97a-4945-91c5-cbdd1d0d6044" />
+
