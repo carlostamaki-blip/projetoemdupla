@@ -36,4 +36,5 @@ Hoje dia 24/09 Nós adicionamos a barra de pesquisa e arrumamos a foto dos objet
 Nós trocamos algumas partes da Pagina de Cadastro e vai ficar assim (Por enquanto). <img width="1916" height="947" alt="image" src="https://github.com/user-attachments/assets/2f6ec3f0-9228-4daa-a408-04e4745bf07a" />
 
 
-Também adicionamos a Pagina de Login. <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/44fa2393-706b-43ba-ac10-9cd227449ba1" />
+Também adicionamos a Pagina de Login. <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/66fc0905-edab-455a-ae1b-97bc49158ae1" />
+
