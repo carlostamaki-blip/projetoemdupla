@@ -33,6 +33,7 @@ Temos que mudar a imagem dos cards, por enquanto elas estão pequenas, vamos aju
 
 Hoje dia 24/09 Nós adicionamos a barra de pesquisa e arrumamos a foto dos objetos e roupas, Essa vai ser a Pagina inicial (Por enquanto).  <img width="1897" height="1076" alt="image" src="https://github.com/user-attachments/assets/647b43f7-e8e9-4718-b99d-9b79d8a87c62" />
 
-nós trocamos algumas partes da Pagina de Cadastro e vai ficar assim (Por enquanto). <img width="1916" height="947" alt="image" src="https://github.com/user-attachments/assets/2f6ec3f0-9228-4daa-a408-04e4745bf07a" />
+Nós trocamos algumas partes da Pagina de Cadastro e vai ficar assim (Por enquanto). <img width="1916" height="947" alt="image" src="https://github.com/user-attachments/assets/2f6ec3f0-9228-4daa-a408-04e4745bf07a" />
 
 
+Também adicionamos a Pagina de Login. <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/44fa2393-706b-43ba-ac10-9cd227449ba1" />
