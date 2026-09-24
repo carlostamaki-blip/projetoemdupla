@@ -30,3 +30,6 @@ O tela inicial está assim. (Tela de cadastro) <img width="1919" height="1007" a
 
 E a tela da página principal está assim. (Por enquanto) <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bd99956a-d971-4518-a9fa-187c8aea4f73" />
 Temos que mudar a imagem dos cards, por enquanto elas estão pequenas, vamos ajustalas para que fiquem do tamanho certo para o card. 
+
+Esse é o novo visual, essa é a Pagina principal (Por enquanto). <img width="1897" height="1076" alt="image" src="https://github.com/user-attachments/assets/647b43f7-e8e9-4718-b99d-9b79d8a87c62" />
+
