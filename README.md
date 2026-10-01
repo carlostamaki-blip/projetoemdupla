@@ -37,5 +37,5 @@ Nós trocamos algumas partes da Pagina de Cadastro e vai ficar assim (Por enquan
 
 Também adicionamos a Pagina de Login. <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d474fb2a-b11f-4c1e-ac64-a99457fa247d" />
 
-Hoje dia 10/01 nós fizemos a página de contato e vai ficar assim (Por enquanto). <img width="1906" height="942" alt="image" src="https://github.com/user-attachments/assets/f5254211-3c2c-4714-ac2b-f79152c7def8" />
+Hoje dia 01/10 nós fizemos a página de contato e vai ficar assim (Por enquanto). <img width="1906" height="942" alt="image" src="https://github.com/user-attachments/assets/f5254211-3c2c-4714-ac2b-f79152c7def8" />
 
