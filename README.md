@@ -15,16 +15,12 @@ A persona(O personagem que vai usar o aplicativo) será o Roberto Guimarães(pes
 
 O site vai conter esse wireframe inicial. <img width="1566" height="744" alt="image" src="https://github.com/user-attachments/assets/a71756b5-9339-46dd-95a5-df91b884fd60" />
 
-Nova atualização.
-
 Anteriormente na parte de Wireframe teve uma atualização onde criamos a parte de Contatos e Configuração. Esse é a atual situação do nosso Wireframe. <img width="1733" height="558" alt="image" src="https://github.com/user-attachments/assets/b4a42826-7e92-4997-884d-d09f728b0f0d" />
 
 O design do site será este. <img width="1206" height="499" alt="image" src="https://github.com/user-attachments/assets/760146d6-7378-4219-ab37-cb4f630c9c5e" />
 
 Começamos o desenvolvimento do site, tela de cadastro <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/ba0cab3c-1538-4f00-8471-fecb575e997f" />
 e a tela "do conteúdo do site" <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/48404dd7-99cb-4e24-af61-623954ab4eb8" />
-
-Nova atualização.
 
 O tela inicial está assim. (Tela de cadastro) <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/fd6b4206-5748-485a-966a-574478ef8c1a" />
 
