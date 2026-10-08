@@ -11,7 +11,7 @@ Vai funcionar da seguinte forma, a pessoa(da coordenação provavelmente) vai lo
 
 o Wireframe/Design está no site figma, por recomendação do professor.
 
-A persona(O personagem que vai usar o aplicativo) será o Roberto Guimarães(nome fictício), ele terá 34 anos, cabelo castanho, meio cacheado, ele trabalha como eletricista numa companhia elétrica, ele tem uma esposa(33 anos) e uma filha(6 anos), e vive em uma casa deixada de herança pela sua avó. Ele gosta de jogar videogame e futebol com os amigos do trabalho nas suas folgas. Ele sempre acorda cedo para fazer o café da manha para a sua esposa e filha.
+A persona(O personagem que vai usar o aplicativo) será o Roberto Guimarães(pessoa e informações fictícias), ele terá 34 anos, cabelo castanho, meio cacheado, ele trabalha como eletricista numa companhia elétrica, ele tem uma esposa(33 anos) e uma filha(6 anos), e vive em uma casa deixada de herança pela sua avó. Ele gosta de jogar videogame e futebol com os amigos do trabalho nas suas folgas. Ele sempre acorda cedo para fazer o café da manha para a sua esposa e filha.
 
 O site vai conter esse wireframe inicial. <img width="1566" height="744" alt="image" src="https://github.com/user-attachments/assets/a71756b5-9339-46dd-95a5-df91b884fd60" />
 
@@ -39,3 +39,5 @@ Também adicionamos a Pagina de Login. <img width="1919" height="1079" alt="imag
 
 Hoje dia 01/10 nós fizemos a página de contato e vai ficar assim (Por enquanto). <img width="1906" height="942" alt="image" src="https://github.com/user-attachments/assets/f5254211-3c2c-4714-ac2b-f79152c7def8" />
 
+08/10 Foi criada a página de Objetos. <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/391e28c3-a25f-4a57-9e50-d468b75b3299" />
+E a página de Roupas. <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1319241c-7f36-4569-87d1-db707d0566aa" />
