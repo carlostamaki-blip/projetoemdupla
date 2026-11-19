@@ -47,4 +47,9 @@ Criamos essa página Cadastrar Item, que ficou assim.
 E melhoramos a página de Contato.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1f170b17-96c2-43f3-80f9-91ba80b69370" />
 
+E Refatoramos a página de login.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a1a1045d-0d52-4de1-b4d8-510aada2fee5" />
+
+E também deixamos o Site funcional na parte de "Ver Detalhes".
+<img width="1911" height="930" alt="image" src="https://github.com/user-attachments/assets/06e78693-e513-43e6-b86b-c7538de859b3" />
 
