@@ -38,7 +38,7 @@ Hoje dia 01/10 nós fizemos a página de contato e vai ficar assim (Por enquanto
 08/10 Foi criada a página de Objetos. <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/391e28c3-a25f-4a57-9e50-d468b75b3299" />
 E a página de Roupas. <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1319241c-7f36-4569-87d1-db707d0566aa" />
 
-Hoje dia 19/11 Melhoramos o Site em geral tiramos algumas coisas e melhoramos tudo, A Página inical está assim.
+Hoje dia 19/11 Melhoramos o Site em geral tiramos algumas coisas e melhoramos, A Página inical está assim.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c413d12a-f284-466f-a81d-8678c206afea" />.
 
 Criamos essa página Cadastrar Item, que ficou assim.
